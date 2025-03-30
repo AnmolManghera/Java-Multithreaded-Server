@@ -7,3 +7,6 @@ We load test the server using Apache JMeter
 
 ![image](https://github.com/user-attachments/assets/0ec07950-888d-4327-9199-3f6a079e446e)
 
+For Single Threaded Server
+
+![image](https://github.com/user-attachments/assets/cb24f7b7-e470-4413-8ad2-15ee5e39ca4b)
